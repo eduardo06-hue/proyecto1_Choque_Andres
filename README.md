@@ -1,5 +1,5 @@
 # Proyecto 1 — Operaciones de Conjuntos y Relaciones Binarias
-**Autor:** Andres Choque  
+**Autor:** Andres Eduardo Choque Terrazas 
 
 ## Descripción
 Aplicación de escritorio desarrollada en Python con interfaz gráfica Tkinter.
